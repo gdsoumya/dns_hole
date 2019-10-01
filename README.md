@@ -39,7 +39,7 @@ A DNS Server will be initialized at **0.0.0.0:53**
 ### Errors 
 Possible Errors :<br>
 1. **Run As Root** : On linux based systems the script needs to be executed as root, on windows admin permissions will be requested.<br>
-2. **Port 53 is already in use/Socket Error** : Other processes or services are running on the required port(53), kill or close them before executing the script.<br>
+2. **Port 53 is already in use/Socket Error** : Other processes or services are using the required port(53), kill or close them before executing the script.<br>
 
 ## Using DNS Hole
 To use DNS Hole you can choose one of the following options:
