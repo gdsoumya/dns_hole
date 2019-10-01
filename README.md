@@ -1,5 +1,4 @@
 # DNS Hole
-<br><br>
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)   <img src="https://img.shields.io/badge/made%20with-python-blue.svg" alt="made with python"> <a href='https://github.com/gdsoumya' target='_blank'><img src='https://img.shields.io/github/followers/gdsoumya.svg?label=Folow&style=social'></a><a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fgdsoumya%2Fdns_hole&text=Checkout%20this%20project%20called%20DNS%20Hole%2C%20it%20blocks%20unwanted%20ads%20and%20trackers%20and%20preserves%20your%20privacy.%20&hashtags=%23dns_hole%20%23privacy%20%23ad_blocker%20%23trackers_blocker" target="_blank">
   <img src="http://jpillora.com/github-twitter-button/img/tweet.png"
        alt="tweet button" title="Checkout this project called DNS Hole, it blocks unwanted ads and trackers and preserves your privacy. "></img>
