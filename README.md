@@ -4,7 +4,7 @@
        alt="tweet button" title="Checkout this project called DNS Hole, it blocks unwanted ads and trackers and preserves your privacy. "></img>
 </a>
 
-DNS Hole is a network-level advertisement and Internet tracker blocking script which acts as a DNS sinkhole. It comes with a tracker and advertisement block list that can be customized according to user preferences and requirements.<br><br>
+DNS Hole is a network-level advertisement and Internet tracker blocking tool which acts as a DNS sinkhole. It comes with a tracker and advertisement block list that can be customized according to user preferences and requirements.<br><br>
 
 <img src="https://github.com/gdsoumya/dns_hole/blob/master/dns_hole_cli.png"
        alt="DNS Hole Cli" title="DNS Hole Cli"></img>
