@@ -34,9 +34,13 @@ To start blocking ads and trackers run
 ```sh
 $ python dns_hole.py
 ```
-A DNS Server will be initialized at **0.0.0.0:53** 
 
-### Errors 
+### Options 
+- **Aggressive Mode** : Aggressively blocks any link which contains the keyword "AD". Use with **CAUTION**, links like **googleadservices.com** as well as links like **addition.com** will be blocked.
+
+Finally a DNS Server will be initialized at **0.0.0.0:53** for use.
+
+### Errors
 Possible Errors :<br>
 1. **Run As Root** : On linux based systems the script needs to be executed as root, on windows admin permissions will be requested.<br>
 2. **Port 53 is already in use/Socket Error** : Other processes or services are using the required port(53), kill or close them before executing the script.<br>
